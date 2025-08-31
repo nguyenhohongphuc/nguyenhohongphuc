@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m a **Computer Science student at HCMUT (Vietnam)** aiming to become an **AI Engineer**. I’m excited about building intelligent systems and taking them from **research to production**.
+Hi, My name is Hồ Hồng Phúc Nguyên,a **Computer Science student at HCMUT (Vietnam)** aiming to become an **AI Engineer**. I’m excited about building intelligent systems and taking them from **research to production**.
 
 - **Focus areas:** Computer Vision, NLP, Generative AI  
 - **I care about:** practical impact, clean design, measurable results  
@@ -29,5 +29,4 @@ I’m a **Computer Science student at HCMUT (Vietnam)** aiming to become an **AI
 
 <!-- Streak (chuỗi đóng góp) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=nguyenhohongphuc&theme=tokyonight)
-**nguyenhohongphuc/nguyenhohongphuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
